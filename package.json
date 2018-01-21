@@ -1,0 +1,16 @@
+{
+  "name": "Simple-Blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/necto68/Simple-Blockchain.git",
+  "author": "necto68 <roman.horodianenko@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
